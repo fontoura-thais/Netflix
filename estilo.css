@@ -1,6 +1,7 @@
 :root{
     --cor-principal: #ffffff;
     --botao-destaque: rgb(54, 126, 221);
+    --cor-de-fundo: #00030c;
 }
 
 *{
