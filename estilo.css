@@ -12,7 +12,7 @@
 .principal{
     background-image: url(./ne.png);
     font-size: 50px;
-    background-size: contain;
+    background-size:cover;
     background-repeat: no-repeat;
     
 }
