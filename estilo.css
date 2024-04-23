@@ -2,6 +2,7 @@
     --cor-principal: #ffffff;
     --botao-destaque: rgb(255, 255, 255);
     --cor-de-fundo: #00030c;
+    --cor-secundaria: #167BF7;
 }
 
 *{
@@ -18,4 +19,9 @@
 }
 .container{
     height: 100vh;
+}
+.container--botao{
+background-color: var(--botao-destaque);
+color: #ffffff;
+
 }
