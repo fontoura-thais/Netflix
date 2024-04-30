@@ -38,4 +38,20 @@ padding: 1em;
 border-radius:  100px;
 text-decoration: none;
 display: block;
+
 }
+
+.botao--secundario{
+background-color: transparent;
+border: 2px solid var(--cor-principal);
+
+
+}
+
+
+
+
+
+
+
+
