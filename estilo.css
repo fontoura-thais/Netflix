@@ -9,7 +9,7 @@
     margin: 0;
     padding: 0;
 }
-.body{
+body{
  background-color: var(--cor-de-fundo);
 color: var(--cor-principal);
 font-weight:400; 
